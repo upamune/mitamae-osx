@@ -1,0 +1,24 @@
+---
+user: upamune
+packages:
+- neovim/neovim/neovim
+- tmux
+- zsh
+- git
+- go
+- nvm
+- python
+- python3
+- rbenv
+- ruby
+- ruby-build
+- ctags
+- git-now
+- httpie
+- imagemagick
+- jq
+- peco
+- the_platinum_searcher
+- tig
+- tree
+- sanemat/font/ricty
