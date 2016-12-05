@@ -22,3 +22,4 @@ packages:
 - tig
 - tree
 - sanemat/font/ricty
+- reattach-to-user-namespace
