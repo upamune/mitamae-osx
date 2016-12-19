@@ -24,3 +24,15 @@ packages:
 - sanemat/font/ricty
 - reattach-to-user-namespace
 - direnv
+apps:
+- google-chrome
+- google-japanese-ime
+- google-drive
+- firefox
+- docker
+- franz
+- 1password
+- iterm2
+- alfred
+- skype
+- appcleaner 
