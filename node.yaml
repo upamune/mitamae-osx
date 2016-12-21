@@ -24,6 +24,7 @@ packages:
 - sanemat/font/ricty
 - reattach-to-user-namespace
 - direnv
+- crystal-lang
 apps:
 - google-chrome
 - google-japanese-ime
@@ -36,3 +37,4 @@ apps:
 - alfred
 - skype
 - appcleaner 
+
